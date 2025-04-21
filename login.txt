@@ -1,0 +1,7 @@
+admin
+username=admin
+password=Test@123
+
+student/user
+username=anujk3
+password=Test@123
